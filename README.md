@@ -13,8 +13,6 @@
 
 <div align="center">
 
-**Pixel es donde la imagen se une al código.**
-
 La fotografía me enseñó a mirar. El desarrollo, a construir.
 Trabajo sin prisa, a propósito: elijo un encuadre, escribo una línea de código,
 y ambos nacen de la misma intención.
